@@ -1,3 +1,3 @@
-#ѧϰ�ʼǵ�demo
+#studyNodedemo
 
 ## vue
